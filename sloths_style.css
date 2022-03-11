@@ -1,0 +1,14 @@
+
+ .img.dashed {border-style: dashed;  
+	border-width: 5px;  
+	margin: 15px 15px 15px 15px; 
+	border-color: blue;}
+
+	.p1 {font-family: Arial, sans-serif;}
+
+	.h1 {font-family: Palatino, serif; font-color: green;}
+	.h2 {font-family: font-family: "Courier", monospace; font-color: pink;}
+
+		.class="fancy" {p.solid border-style: solid;
+			border-color: orange; 
+			background-color: lightyellow;}
