@@ -4,10 +4,10 @@
 	margin: 15px 15px 15px 15px; 
 	border-color: blue;}
 
-	p1. {font-family: Arial;}
+	p1 {font-family: Arial;}
 
-	h1. {font-family: Palatino; font-color: green;}
-	h2. {font-family: font-family: "Courier"; font-color: pink;}
+	h1 {font-family: Palatino; font-color: green;}
+	h2 {font-family: font-family: "Courier"; font-color: pink;}
 
 		fancy. {border-style: solid;
 			border-color: orange; 
