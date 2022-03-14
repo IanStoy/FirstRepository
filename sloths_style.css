@@ -4,11 +4,11 @@
 	margin: 15px 15px 15px 15px; 
 	border-color: blue;}
 
-	.p {font-family: Arial;}
+	.p1 {font-family: Arial;}
 
 	.h1 {font-family: Palatino; font-color: green;}
 	.h2 {font-family: font-family: "Courier"; font-color: pink;}
 
-		.fancy {p.solid border-style: solid;
+		.fancy {border-style: solid;
 			border-color: orange; 
 			background-color: lightyellow;}
