@@ -9,6 +9,6 @@
 	.h1 {font-family: Palatino; font-color: green;}
 	.h2 {font-family: font-family: "Courier"; font-color: pink;}
 
-		.p.class= "fancy" {p.solid border-style: solid;
+		.fancy {p.solid border-style: solid;
 			border-color: orange; 
 			background-color: lightyellow;}
