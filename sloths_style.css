@@ -10,6 +10,6 @@
 	h1 { font-family: Palatino; font-color: green; }
 	h2 { font-family: font-family: "Courier"; font-color: pink; }
 
-		p.fancy { border-style: solid;
+		.fancy { border-style: solid;
 			border-color: orange; 
 			background-color: lightyellow; }
