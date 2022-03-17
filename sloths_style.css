@@ -3,11 +3,12 @@
   background-color: #A9DBB1;
 }
 
+img {
+  border: 5px border-style: double; #09B2B8;
+  margin: 15px 15px 15px 15px; 
+}
 
- img.double {border-style: double; 
-	border-width: 5px;  
-	margin: 15px 15px 15px 15px; 
-	border-color: blue; }
+ 
 
 	p { font-family: Arial, sans-serif; }
 
