@@ -1,4 +1,8 @@
 
+ body {
+  background-color: #A9DBB1;
+}
+
  img { border-style: dashed;  
 	border-width: 5px;  
 	margin: 15px 15px 15px 15px; 
