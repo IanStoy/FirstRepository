@@ -3,7 +3,7 @@
   background-color: #A9DBB1;
   padding: 50px 50px 50px 50px; }
 
-img { border-radius: 5px; border-style: ridge; #09B2B8; border-radius: 5px;
+img { border-radius: 20px; border-style: ridge; #09B2B8; border-radius: 20px;
     padding: 15px 15px 15px 15px; }
 
  
@@ -17,4 +17,6 @@ img { border-radius: 5px; border-style: ridge; #09B2B8; border-radius: 5px;
 
 		p.fancy { border-style: solid;
 			border-color: orange; 
-			background-color: lightyellow; }
+			background-color: lightyellow; 
+			border-radius: 15px;
+			padding: 10px 10px 10px 10px;}
