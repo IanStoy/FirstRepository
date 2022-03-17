@@ -3,15 +3,8 @@
   background-color: #A9DBB1;
 }
 
-<head>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<style>
-body {
-  font-family: "Lato", sans-serif;
-}
-</style>
-</head>
- img { border-style: dashed;  
+
+ img.double {border-style: double; 
 	border-width: 5px;  
 	margin: 15px 15px 15px 15px; 
 	border-color: blue; }
