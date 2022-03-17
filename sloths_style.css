@@ -1,15 +1,14 @@
 
- .img {border-style: dashed;  
+ img { border-style: dashed;  
 	border-width: 5px;  
 	margin: 15px 15px 15px 15px; 
-
 	border-color: blue; }
 
-	.p { font-family: Arial, sans-serif; }
+	p { font-family: Arial, sans-serif; }
 
-	.h1 { font-family: Palatino; font-color: green; }
+	h1 { font-family: Palatino; font-color: green; }
 
-	.h2 { font-family: font-family: "Courier"; font-color: pink; }
+	h2 { font-family: font-family: "Courier"; font-color: pink; }
 
 		p.fancy { border-style: solid;
 			border-color: orange; 
