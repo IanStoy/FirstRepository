@@ -3,6 +3,12 @@
   background-color: #A9DBB1;
 }
 
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<style>
+body {
+  font-family: "Lato", serif;
+}
+
  img { border-style: dashed;  
 	border-width: 5px;  
 	margin: 15px 15px 15px 15px; 
