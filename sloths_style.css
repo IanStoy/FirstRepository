@@ -5,7 +5,7 @@
 }
 
 img { border: border-style: ridge; #09B2B8; 15px 
-   
+    padding: 50px 50px 50px 50px;
 }
 
  
@@ -14,7 +14,8 @@ img { border: border-style: ridge; #09B2B8; 15px
 
 	h1 { font-family: Palatino; font-color: #3C733A; font-size: 48pt; }
 
-	h2 { font-family: font-family: "Courier"; font-color: #254EBF; font-size: 36pt; }
+	h2 { font-family: font-family: "Courier"; font-color: #254EBF; 
+		font-size: 24pt; }
 
 		p.fancy { border-style: solid;
 			border-color: orange; 
